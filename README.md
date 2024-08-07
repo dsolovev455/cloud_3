@@ -10,7 +10,7 @@
  - создать ключ в KMS;
  - с помощью ключа зашифровать содержимое бакета, созданного ранее.
 - Ответ:
-<img src="pic/сrypto-backet.png" width="" height="500"/>
+<img src="pic/crypto-backet.png" width="" height="500"/>
 
 
 2. (Выполняется не в Terraform)* Создать статический сайт в Object Storage c собственным публичным адресом и сделать доступным по HTTPS:
